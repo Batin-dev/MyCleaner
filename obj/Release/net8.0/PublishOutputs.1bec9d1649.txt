@@ -1,0 +1,5 @@
+C:\Users\batin\source\repos\MyCleaner\publish\MyCleaner.exe
+C:\Users\batin\source\repos\MyCleaner\publish\MyCleaner.dll
+C:\Users\batin\source\repos\MyCleaner\publish\MyCleaner.deps.json
+C:\Users\batin\source\repos\MyCleaner\publish\MyCleaner.runtimeconfig.json
+C:\Users\batin\source\repos\MyCleaner\publish\MyCleaner.pdb

@@ -1,0 +1,15 @@
+C:\Users\batin\source\repos\MyCleaner\bin\Release\net8.0\MyCleaner.exe
+C:\Users\batin\source\repos\MyCleaner\bin\Release\net8.0\MyCleaner.deps.json
+C:\Users\batin\source\repos\MyCleaner\bin\Release\net8.0\MyCleaner.runtimeconfig.json
+C:\Users\batin\source\repos\MyCleaner\bin\Release\net8.0\MyCleaner.dll
+C:\Users\batin\source\repos\MyCleaner\bin\Release\net8.0\MyCleaner.pdb
+C:\Users\batin\source\repos\MyCleaner\obj\Release\net8.0\MyCleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batin\source\repos\MyCleaner\obj\Release\net8.0\MyCleaner.AssemblyInfoInputs.cache
+C:\Users\batin\source\repos\MyCleaner\obj\Release\net8.0\MyCleaner.AssemblyInfo.cs
+C:\Users\batin\source\repos\MyCleaner\obj\Release\net8.0\MyCleaner.csproj.CoreCompileInputs.cache
+C:\Users\batin\source\repos\MyCleaner\obj\Release\net8.0\MyCleaner.sourcelink.json
+C:\Users\batin\source\repos\MyCleaner\obj\Release\net8.0\MyCleaner.dll
+C:\Users\batin\source\repos\MyCleaner\obj\Release\net8.0\refint\MyCleaner.dll
+C:\Users\batin\source\repos\MyCleaner\obj\Release\net8.0\MyCleaner.pdb
+C:\Users\batin\source\repos\MyCleaner\obj\Release\net8.0\MyCleaner.genruntimeconfig.cache
+C:\Users\batin\source\repos\MyCleaner\obj\Release\net8.0\ref\MyCleaner.dll
