@@ -23,8 +23,7 @@ class Program
             
             string tempDir = Path.GetTempPath(); 
             string windowsTempDir = @"C:\Windows\Temp"; 
-
-            // Clean user temp directory
+            
             Console.WriteLine("Cleaning user temp directory...");
             DeleteFilesInDirectory(tempDir);
 
@@ -78,10 +77,8 @@ class Program
             Console.WriteLine("Resetting Windows Store cache...");
             ExecuteCommand("wsreset.exe");
 
-            // Wait for the cache reset to complete
             Thread.Sleep(10000); // Wait 10 seconds
 
-            // Kill Windows Store if it is still running
             Console.WriteLine("Killing Windows Store if it's still running...");
             ExecuteCommand("taskkill /IM WinStore.App.exe /F");
 
